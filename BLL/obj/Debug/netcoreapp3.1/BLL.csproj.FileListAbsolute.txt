@@ -1,0 +1,28 @@
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\bin\Debug\netcoreapp3.1\DLL.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\bin\Debug\netcoreapp3.1\DLL.pdb
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\BLL\bin\Debug\netcoreapp3.1\Utility.pdb
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\bin\Debug\netcoreapp3.1\DLL.dll
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\bin\Debug\netcoreapp3.1\Utility.dll
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\bin\Debug\netcoreapp3.1\DLL.pdb
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\bin\Debug\netcoreapp3.1\Utility.pdb
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

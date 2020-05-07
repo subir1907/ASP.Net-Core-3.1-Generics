@@ -1,0 +1,29 @@
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\DLL.deps.json
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.json
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.dev.json
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\DLL.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\DLL.pdb
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.csprojAssemblyReference.cache
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CoreCompileInputs.cache
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.pdb
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.genruntimeconfig.cache
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\tapos\RiderProjects\ProjectPractise\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CopyComplete
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\obj\Debug\netcoreapp3.1\DLL.csprojAssemblyReference.cache
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfoInputs.cache
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\obj\Debug\netcoreapp3.1\DLL.AssemblyInfo.cs
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\obj\Debug\netcoreapp3.1\DLL.dll
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\obj\Debug\netcoreapp3.1\DLL.pdb
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\bin\Debug\netcoreapp3.1\DLL.deps.json
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.json
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\bin\Debug\netcoreapp3.1\DLL.runtimeconfig.dev.json
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\bin\Debug\netcoreapp3.1\DLL.dll
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\bin\Debug\netcoreapp3.1\DLL.pdb
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\obj\Debug\netcoreapp3.1\DLL.genruntimeconfig.cache
+E:\ASP.NET Core 3\Practice\ASP.NET-CORE-3.1-practical-2020-master\DLL\obj\Debug\netcoreapp3.1\DLL.csproj.CoreCompileInputs.cache
